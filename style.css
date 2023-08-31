@@ -33,6 +33,11 @@ h1 {
     height: 5vh;
     width: 30vw;
     margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+}
 }
 .input {
     height: auto;
